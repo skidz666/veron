@@ -1,0 +1,12 @@
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+selector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}div {
+  text-align: center;
+}
